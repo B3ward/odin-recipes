@@ -1,5 +1,5 @@
-The Odin Project Recipe Assignment:
+# The Odin Project Recipe Assignment:
 
--Learn HTML Basics
+* Apply learned HTML Basics
 
--Learn CSS Basics
+* Learn Apply learned CSS Basics
